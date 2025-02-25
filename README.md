@@ -2,6 +2,9 @@
 Image caption generating app using LLava model
 <p># Image Captioning with LLAVA 1.5-7B HF
 
+## Link to the application
+https://squiggly-knotty-pheasant.anvil.app/
+
 ## Overview
 This project focuses on generating descriptive captions for images using the **LLAVA (Large Language and Vision Assistant) 1.5-7B HF** model. The model was run in **Google Colab** using a **T4 GPU** for efficient processing. Additionally, a web application was developed using **Anvil** to provide a user-friendly interface where users can upload images and receive captions.
 
